@@ -210,7 +210,7 @@
                 },
                 "parametersLink": {
                     "contentVersion": "1.0.0.0",
-                    "uri": "[variables('policySelection')]"
+                    "uri": "https://github.com/Azure/Enterprise-Scale/blob/main/azopsreference/3fc1081d-6105-4e19-b60c-1ec1252cf560%20(3fc1081d-6105-4e19-b60c-1ec1252cf560)/contoso%20(contoso)/.AzState/Microsoft.Authorization_policyAssignments-Deny-Subnet-Without-Nsg.parameters.json"
                 }
             }
         }
