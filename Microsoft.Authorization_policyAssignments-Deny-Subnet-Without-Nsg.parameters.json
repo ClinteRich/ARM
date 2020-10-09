@@ -12,7 +12,7 @@
           "DisplayName": "Deny-Subnet-Without-Nsg",
           "NotScopes": null,
           "Parameters": {},
-          "PolicyDefinitionId": "/providers/Microsoft.Management/managementGroups/FMGlobal_MGMTGRP/providers/Microsoft.Authorization/policyDefinitions/84eb3b5c-9c79-4362-993e-86dac2df1f8c",
+          "PolicyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/06a78e20-9358-41c9-923c-fb736d382a4dc",
           "Scope": "/providers/Microsoft.Management/managementGroups/FMGlobal_MGMTGRP"
         },
         "ResourceType": "Microsoft.Authorization/policyAssignments"
