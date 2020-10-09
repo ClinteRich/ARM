@@ -13,7 +13,7 @@
           "NotScopes": null,
           "Parameters": {},
           "PolicyDefinitionId": "a61cade0-7a29-49e3-acc3-02df00def2a0",
-          "Scope": "FMGlobal_MGMTGRP"
+          "Scope": "/providers/Microsoft.Management/managementGroups/FMGlobal_MGMTGRP"
         },
         "ResourceType": "Microsoft.Authorization/policyAssignments"
       }
