@@ -15,6 +15,7 @@
                 "Deny App GW without WAF",
                 "Deny ER peering",
                 "Deny private DNS zones",
+                "Deny subnet without NSG",
                 "Deny Public Endpoint for AKS",
                 "Deny Public Endpoint for CosmosDB",
                 "Deny Public Endpoint for MariaDB",
